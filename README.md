@@ -2,7 +2,11 @@
     <img src="https://di5qs4dv32t01.cloudfront.net/wp-content/uploads/2021/12/telegram-34.jpg" width="250">
   </a><br>
 
-Press the below button to deploy to Heroku
+Press the below button to deploy to Render
+
+<a href="https://render.com/deploy?repo=https://github.com/Sanjai305/TDM">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 <a href="https://youtu.be/2MFOUs2vKz8"><br>
